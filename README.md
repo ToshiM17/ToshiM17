@@ -37,9 +37,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ToshiM17/ToshiM17/output/snake.svg" alt="Snake animation" />
-
-###
